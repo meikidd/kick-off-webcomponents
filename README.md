@@ -411,3 +411,9 @@ p::shadow span {
 
 - https://github.com/meikidd/localtime
 - https://gitlab.alibaba-inc.com/ams-team/finder-component
+
+
+## 参考文献
+- [Web Components 是什么？它为什么对我们这么重要？](http://www.html-js.com/article/2779)
+- [Shadow DOM 综述](http://www.ituring.com.cn/article/179915)
+- [Custom Elements](http://www.html5rocks.com/zh/tutorials/webcomponents/customelements/)
