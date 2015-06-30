@@ -407,10 +407,6 @@ p::shadow span {
 </script>
 ```
 
-## Web Components 在 AMS 中的应用
-
-- https://github.com/meikidd/localtime
-- https://gitlab.alibaba-inc.com/ams-team/finder-component
 
 
 ## 参考文献
